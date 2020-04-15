@@ -1,0 +1,67 @@
+body {
+    background-color: lightgray;
+}
+
+div {
+    margin-left: 12cm;
+    margin-right: 12cm;
+    padding-top: 1cm;
+}
+
+img {
+    border-radius: 8px;
+    width: 23px;
+    height: 15px;
+}
+
+#title1 {
+    color: black;
+    font-size: 1.2cm;
+    text-align: center;
+}
+
+#subtitle1 {
+    color: gray;
+    font-size: 1.2cm;
+    text-align: center;
+}
+
+table {
+    font-family: Arial;
+    border-collapse: collapse;
+}
+
+td {
+    background: white;
+    padding: 7px;
+    text-align: justify;
+}
+
+td, th {
+    color: gray;
+}
+
+#timeFont {
+    color: blue
+}
+
+#semiBoldFont {
+    color: black;
+    font-weight: 600;
+}
+
+.coluna-nome {
+    width: 200px;
+}
+
+.bottomBorder {
+    border-bottom: 2px solid gray;
+}
+
+.textFontSize {
+    font-size: 20px;
+}
+
+.tablePadding {
+    margin-top: 2.5cm;
+}
