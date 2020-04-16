@@ -1,11 +1,10 @@
 body {
-    background-color: lightgray;
+    background-color: rgb(228,225,213);
 }
 
 div {
     margin-left: 12cm;
     margin-right: 12cm;
-    padding-top: 1cm;
 }
 
 img {
@@ -15,20 +14,33 @@ img {
 }
 
 #title1 {
-    color: black;
-    font-size: 1.2cm;
+    background: linear-gradient(to right, rgb(181, 14, 35) 0%, rgb(0, 62, 139) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-weight: 900;
+    font-size: 38pt;
     text-align: center;
+    padding: 0 30px;
+    border-bottom: 4px solid rgb(111, 26, 51);
 }
 
 #subtitle1 {
-    color: gray;
-    font-size: 1.2cm;
+    background: linear-gradient(to right, rgb(181, 14, 35) 0%, rgb(0, 62, 139) 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    font-size: 30pt;
+    padding-bottom: 20px;
+    font-weight: normal;
     text-align: center;
 }
 
 table {
     font-family: Arial;
     border-collapse: collapse;
+    background-color: #FFF;
+    width: 800px;
+    padding: 20px;
+    margin: 20px 0;
 }
 
 td {
