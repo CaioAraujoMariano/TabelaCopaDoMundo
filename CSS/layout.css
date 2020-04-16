@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228,225,213);
+    background-color: rgb(229,225,216);
 }
 
 div {
@@ -8,9 +8,9 @@ div {
 }
 
 img {
-    border-radius: 8px;
-    width: 23px;
-    height: 15px;
+    border-radius: 2px;
+    width: 28px;
+    height: 23px;
 }
 
 #title1 {
@@ -75,5 +75,5 @@ td, th {
 }
 
 .tablePadding {
-    margin-top: 2.5cm;
+    margin-top: 0.5cm;
 }
